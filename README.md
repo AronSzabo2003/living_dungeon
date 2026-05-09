@@ -1,3 +1,3 @@
 # living_dungeon
 ## Indítás (Setup)
-`Assets` > `The Kazamath` > `Scenes` > **`SampleScene.unity`**
+`Assets` > `The Kazamath` >`Assets` >`Scenes` > **`SampleScene.unity`**
