@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\NPCInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\NPCInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\Tests\\Testassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Tests\\Testassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\Tests\\Tests.asmdef||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Tests\\Tests.asmdef||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Library\\PackageCache\\com.unity.test-framework@76560ee600cb\\Tests\\TestNewCustomAssembly\\TestNewCustomAssembly.asmdef||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.test-framework@76560ee600cb\\Tests\\TestNewCustomAssembly\\TestNewCustomAssembly.asmdef||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\NPCInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\NPCInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\Killing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,8 +66,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestNewCustomAssembly.asmdef",
+              "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Library\\PackageCache\\com.unity.test-framework@76560ee600cb\\Tests\\TestNewCustomAssembly\\TestNewCustomAssembly.asmdef",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.test-framework@76560ee600cb\\Tests\\TestNewCustomAssembly\\TestNewCustomAssembly.asmdef",
+              "ToolTip": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Library\\PackageCache\\com.unity.test-framework@76560ee600cb\\Tests\\TestNewCustomAssembly\\TestNewCustomAssembly.asmdef",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.test-framework@76560ee600cb\\Tests\\TestNewCustomAssembly\\TestNewCustomAssembly.asmdef",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-12T21:01:25.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Testassets.cs",
+              "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\Tests\\Testassets.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Tests\\Testassets.cs",
+              "ToolTip": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\Tests\\Testassets.cs",
+              "RelativeToolTip": "Assets\\scripts\\Tests\\Testassets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:58:59.85Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -75,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SpeedBoost_2.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\SpeedBoost_2.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\SpeedBoost_2.cs",
@@ -87,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LetraLefele.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\LetraLefele.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\LetraLefele.cs",
@@ -99,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Sebzes.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\Sebzes.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Sebzes.cs",
@@ -111,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DeathZoneHandler.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\DeathZoneHandler.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\DeathZoneHandler.cs",
@@ -123,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "NPCInteract.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\NPCInteract.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\NPCInteract.cs",
@@ -131,12 +165,11 @@
               "RelativeToolTip": "Assets\\scripts\\NPCInteract.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-02T11:20:24.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T11:20:24.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SpeedBoost.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\SpeedBoost.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\SpeedBoost.cs",
@@ -148,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Killing.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\Killing.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Killing.cs",
@@ -160,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EnemyPatrol.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\EnemyPatrol.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\EnemyPatrol.cs",
@@ -172,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "WinCondition.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\WinCondition.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\WinCondition.cs",
@@ -184,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "movement.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\movement.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\movement.cs",
@@ -196,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "goal.cs",
               "DocumentMoniker": "C:\\Users\\szabo\\mosze_living_dungeon\\living_dungeon\\The Kazamath\\Assets\\scripts\\goal.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\goal.cs",
