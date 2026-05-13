@@ -18,6 +18,10 @@ public class Killing : MonoBehaviour
     private void RestartLevel()
     {
         // Lekérjük a jelenlegi pálya nevét/számát, és újra betöltjük azt
+       
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        movement playerScript = GetComponent<movement>();
+        playerScript.speed = 4;
+        playerScript.jumpForce = 6;
     }
 }
